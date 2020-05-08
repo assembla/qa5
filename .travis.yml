@@ -3,7 +3,7 @@
 #   - echo 'OK'
 
 os: linux
-virt: lxd
+# virt: lxd
 
 script:
 - ruby -v
