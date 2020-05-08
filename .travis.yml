@@ -3,6 +3,7 @@
 #   - echo 'OK'
 
 dist: xenial
+virt: lxd
 # os: linux
 # virt: lxd
 
