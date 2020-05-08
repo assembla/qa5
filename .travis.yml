@@ -2,6 +2,7 @@
 # script:
 #   - echo 'OK'
 
+os: linux
 virt: lxd
 
 script:
