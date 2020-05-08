@@ -1,3 +1,8 @@
-language: node_js
+# language: node_js
+# script:
+#   - echo 'OK'
+
+virt: lxd
+
 script:
-  - echo 'OK'
+- ruby -v
