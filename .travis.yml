@@ -2,7 +2,7 @@
 # script:
 #   - echo 'OK'
 
-dist: xenial
+dist: focal
 virt: lxd
 # os: linux
 # virt: lxd
