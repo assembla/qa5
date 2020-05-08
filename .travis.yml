@@ -5,7 +5,6 @@
 dist: focal
 virt: lxd
 # os: linux
-# virt: lxd
 
 script:
 - ruby -v
